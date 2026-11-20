@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Industria Publicitaria - Análisis y Pronósticos 2030",
+  "description": "Dashboard analítico interactivo de la inversión publicitaria en Colombia (1995-2025): estadísticas descriptivas, análisis de tendencias y modelos econométricos de proyección a 2030 por medio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
